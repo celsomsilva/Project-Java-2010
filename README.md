@@ -1,4 +1,15 @@
 
+## ☕ Legacy Technologies Used
+
+![Java SE](https://img.shields.io/badge/Java%20SE-6%2F7-007396?logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-UI-orange)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-5.x-4479A1?logo=mysql&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-iReport%20support-cc2020)
+![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipseide&logoColor=white)
+![License](https://img.shields.io/github/license/celsomsilva/project-java-2010)
+
+
 # SISBOL – Scholarship Registration System
 
 ## 📖 Overview
