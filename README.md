@@ -1,5 +1,5 @@
 
-## ☕ Legacy Technologies Used
+## Legacy Technologies Used
 
 ![Java SE](https://img.shields.io/badge/Java%20SE-6%2F7-007396?logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-UI-orange)
@@ -12,7 +12,7 @@
 
 # SISBOL – Scholarship Registration System
 
-## 📖 Overview
+## Overview
 
 This repository contains the source code for **SISBOL (Scholarship Registration System)** — a Java desktop application developed in 2010 as part of an project at **UERJ (Rio de Janeiro State University)**, within the **Postgraduate Program in Computer Engineering – Geomatics Concentration Area (PGEC)**.
 
@@ -20,7 +20,7 @@ The system was designed to manage the registration and control of scholarships, 
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Develop a robust, efficient Java desktop application to:
 - Register, update, and delete records of students, scholarships, advisors, and scholarship holders.
@@ -29,7 +29,7 @@ Develop a robust, efficient Java desktop application to:
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **User Authentication**
 - **CRUD operations** for:
@@ -43,7 +43,7 @@ Develop a robust, efficient Java desktop application to:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Java SE 6/7
 - Swing (UI)
@@ -54,7 +54,7 @@ Develop a robust, efficient Java desktop application to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Only the `.java` source files are included in this repository due to project constraints and Jasper/iReport licensing.
 
@@ -67,7 +67,7 @@ To fully use the project:
 
 ---
 
-## 📝 Usage Instructions
+## Usage Instructions
 
 When launching the application:
 - A login window prompts for **MySQL username and password**.
@@ -78,7 +78,7 @@ When launching the application:
 
 ---
 
-## 📜 Licensing
+## Licensing
 
 **MIT License**
 
@@ -90,7 +90,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ---
 
-## 📌 Important Notes
+## Important Notes
 
 - The system heavily relies on **JasperReports/iReport** for reporting — which requires external configuration not present in this repository.
 - Original .jrxml and compiled .jasper files were omitted.
@@ -99,15 +99,15 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ---
 
-## 📜 Projeto em Português 🇧🇷
+## Projeto em Português
 
-### 📖 Apresentação
+### Apresentação
 
 Este repositório contém o código-fonte do **SISBOL (Sistema de Cadastramento de Bolsas)** — aplicação desktop Java desenvolvida em 2010 como projeto na **UERJ (Universidade do Estado do Rio de Janeiro)**, no âmbito do **Programa de Pós-Graduação em Engenharia de Computação – Geomática (PGEC)**.
 
 ---
 
-### 🎯 Objetivo
+### Objetivo
 
 Desenvolver um sistema em Java capaz de:
 - Cadastrar, atualizar e excluir dados de alunos, professores, bolsas e bolsistas.
@@ -116,7 +116,7 @@ Desenvolver um sistema em Java capaz de:
 
 ---
 
-### ⚙️ Tecnologias
+### Tecnologias
 
 - Java SE 6/7
 - Swing
@@ -127,7 +127,7 @@ Desenvolver um sistema em Java capaz de:
 
 ---
 
-### 📦 Organização
+### Organização
 
 Foram incluídos apenas arquivos `.java` neste repositório. Arquivos Jasper/iReport e scripts SQL não foram disponibilizados por motivos de licença e confidencialidade.
 
@@ -139,9 +139,9 @@ Para uso:
 
 ---
 
-## 📞 Contato
+## Contato
 
 Para dúvidas ou informações:
 
-- 💻 [https://linkedin.com/in/celso-m-silva]
+- [https://linkedin.com/in/celso-m-silva]
 
