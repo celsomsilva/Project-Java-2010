@@ -1,8 +1,7 @@
 
-## Legacy Technologies Used
+## Technologies Used
 
-![Java SE](https://img.shields.io/badge/Java%20SE-6%2F7-007396?logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-UI-orange)
+![Java](https://img.shields.io/badge/Java%20SE-6%2F7-007396?logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-5.x-4479A1?logo=mysql&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-iReport%20support-cc2020)
@@ -46,7 +45,6 @@ Develop a robust, efficient Java desktop application to:
 ## Tech Stack
 
 - Java SE 6/7
-- Swing (UI)
 - JDBC (Database connectivity)
 - MySQL 5.x
 - JasperReports / iReport
@@ -96,6 +94,30 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - Original .jrxml and compiled .jasper files were omitted.
 - Database creation scripts were excluded for privacy and contractual reasons.
 - Historical context: This system prototype was part of internal tooling used at **UERJ's Geomatics PGEC program** for academic and administrative scholarship management.
+
+
+---
+
+
+## About the Author
+
+I’m a Data Science and Analytics specialist (USP postgraduate) and Computer Engineer (UERJ) with a career spanning from **Pascal/C/Java roots** to **modern Machine Learning and AI**.
+
+My academic and professional background includes:
+
+- **Computation in general**
+- **Machine Learning**
+- **Hierarchical nonlinear mixed models (HLM3/HLM2)**, **Intraclass correlation (ICC)** and other topics about **HLM**
+- **Residual diagnostics and model validation**
+- **Deep Learning, LLMs, and Reinforcement Learning (ongoing specialization)**
+
+---
+
+## Contact  
+
+- [LinkedIn](https://linkedin.com/in/celso-m-silva)  
+- Or open an [issue](https://github.com/celsomsilva/project-java-2010/issues)
+
 
 ---
 
