@@ -13,6 +13,8 @@
 
 ## Overview
 
+<**Note:** This repository contains the original version in Portuguese.  You will find the repository that contains the English-translated version here: [project-java-2010_en](https://github.com/celsomsilva/project-java-2010_en, including file names, variables, methods, and comments.
+
 This repository contains the source code for **SISBOL (Scholarship Registration System)** — a Java desktop application developed in 2010 as part of an project at **UERJ (Rio de Janeiro State University)**, within the **Postgraduate Program in Computer Engineering – Geomatics Concentration Area (PGEC)**.
 
 The system was designed to manage the registration and control of scholarships, students, advisors, and scholarship holders, along with report generation through **JasperReports/iReport** integrated with a **MySQL database**.
@@ -53,6 +55,48 @@ Develop a robust, efficient Java desktop application to:
 ---
 
 ## Project Structure
+
+> Originally developed in 2010, this project already used full package declarations (e.g., `package br.com.project.controller`),
+> but the source files were stored in a simplified directory layout.  
+> In 2025 the English version structure was aligned to the correct physical package hierarchy.
+
+
+```
+Project-Java-2010/
+├── control/
+│   ├── AlunoControl.java
+│   ├── BolsistaControl.java
+│   ├── BolsaControl.java
+│   └── ProfessorControl.java
+│
+├── dao/
+│   ├── Aluno.java
+│   ├── AlunoDAO.java
+│   ├── Bolsista.java
+│   ├── BolsistaDAO.java
+│   ├── Bolsa.java
+│   ├── BolsaDAO.java
+│   ├── Pessoa.java
+│   ├── Professor.java
+│   ├── ProfessorDAO.java
+│   └── DBConnection.java
+│
+├── view/
+│   ├── AlunoWindow.java
+│   ├── BolsaWindow.java
+│   ├── BolsistaWindow.java
+│   ├── ProfessorWindow.java
+│   ├── PessoaWindow.java
+│   ├── MainWindow.java
+│   ├── WindowFrame.java
+│   ├── MyPanel.java
+│   ├── PanelButtons.java
+│   └── geomatica_background.jpg
+│
+├── LICENSE
+└── README.md
+```
+
 
 Only the `.java` source files are included in this repository due to project constraints and Jasper/iReport licensing.
 
@@ -165,5 +209,6 @@ Para uso:
 
 Para dúvidas ou informações:
 
-- [https://linkedin.com/in/celso-m-silva]
+- [LinkedIn](https://linkedin.com/in/celso-m-silva)  
+- Ou abra um [issue](https://github.com/celsomsilva/project-java-2010/issues)
 
