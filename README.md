@@ -1,13 +1,13 @@
-# SISBOL – Scholarship Registration System (Java, 2010)
-
+# SISBOL - Scholarship Registration System (Java, 2010)
+<!--
 > **Note:** This repo contains the original Portuguese version.
 > The English-translated version is here:
 > [https://github.com/celsomsilva/project-java-2010_en](https://github.com/celsomsilva/project-java-2010_en)
-
-SISBOL is a **Java desktop system** I built in 2010 during my work at **UERJ** (Postgraduate Program in Computer Engineering – Geomatics).
+-->
+SISBOL is a **Java desktop system** I built in 2010 during my work at **UERJ** (Postgraduate Program in Computer Engineering - Geomatics).
 It manages scholarships, students, advisors, and report generation using **JasperReports** and a **MySQL database**.
 
-This was built in the Java SE 6/7 era — Swing UI, JDBC, Eclipse, and a lot of manual wiring.
+This was built in the Java SE 6/7 era - Swing UI, JDBC, Eclipse, and a lot of manual wiring.
 
 ---
 
@@ -100,7 +100,7 @@ On successful login, the main window loads and all registration/report menus bec
 * Reports depend on **iReport/JasperReports**, so you’ll need to configure this manually.
 * `.jrxml` and `.jasper` files were removed due to licensing and project constraints.
 * DB scripts were omitted because the system was used internally at UERJ.
-* This repo is preserved as a **historical snapshot** of the system as it existed in 2010 — Swing UI, DAOs, manual SQL, early reporting tools.
+* This repo is preserved as a **historical snapshot** of the system as it existed in 2010 - Swing UI, DAOs, manual SQL, early reporting tools.
 
 ---
 
