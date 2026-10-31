@@ -4,10 +4,9 @@
 > The English-translated version is here:
 > [https://github.com/celsomsilva/project-java-2010_en](https://github.com/celsomsilva/project-java-2010_en)
 -->
-SISBOL is a **Java desktop system** I built in 2010 during my work at **UERJ** (Postgraduate Program in Computer Engineering - Geomatics).
-It manages scholarships, students, advisors, and report generation using **JasperReports** and a **MySQL database**.
+SISBOL is a Java desktop application developed in 2010 for a postgraduate program in Computer Engineering (Geomatics) that needed a system to manage scholarships. The system manages scholarships, students, advisors, and report generation using JasperReports and a MySQL database.
 
-This was built in the Java SE 6/7 era - Swing UI, JDBC, Eclipse, and a lot of manual wiring.
+The project was developed during the Java SE 6/7 era, using a Swing graphical user interface, JDBC, Eclipse, and various manually implemented integrations and configurations.
 
 ---
 
